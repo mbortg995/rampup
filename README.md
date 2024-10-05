@@ -1,3 +1,3 @@
-#PROYECTO DE MIGUEL
+# PROYECTO DE MIGUEL
 
-##Este repositorio corresponde al primer bloque del bootcamp de Fullstack: El RampUp.
+## ste repositorio corresponde al primer bloque del bootcamp de Fullstack: El RampUp.
